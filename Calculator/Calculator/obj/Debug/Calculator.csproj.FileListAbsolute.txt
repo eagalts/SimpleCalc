@@ -1,0 +1,9 @@
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\RPO\Егор Агальцов\C#\WinForms\Calculator\Calculator\obj\Debug\Calculator.pdb
